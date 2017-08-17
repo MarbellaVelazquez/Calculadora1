@@ -17,6 +17,8 @@ public class Nuevo {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
 	calculadora.setVisible(true);
+        int n=0;
+        System.out.println("Hola mundo");
     }
     
 }
